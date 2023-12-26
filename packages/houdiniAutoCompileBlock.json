@@ -1,0 +1,14 @@
+{
+    "env": [
+        {
+            "HOUDINI_AUTOCOMPILEBLOCK": "$HOUDINI_USER_PREF_DIR/houdiniAutoCompileBlock"
+        },
+        {
+            "HOUDINI_MENU_PATH": "$HOUDINI_AUTOCOMPILEBLOCK/menu"
+        },
+        {
+            "PYTHONPATH": "$HOUDINI_AUTOCOMPILEBLOCK/modules"
+        }
+    ],
+    "hpath": "$HOUDINI_AUTOCOMPILEBLOCK"
+}

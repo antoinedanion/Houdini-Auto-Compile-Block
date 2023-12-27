@@ -4,6 +4,18 @@ Automatically compile foreach blocks in SideFX Houdini Sop context.
 
 See [SideFX's documentation on compiled blocks](https://www.sidefx.com/docs/houdini/model/compile.html)
 
+## Table of content
+
+- [Houdini Auto Compile Block](#houdini-auto-compile-block)
+  - [Table of content](#table-of-content)
+  - [Features](#features)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Compatibility](#compatibility)
+  - [Changelog](#changelog)
+  - [License](#license)
+  - [Notice](#notice)
+
 ## Features
 
 - Creates *block_begin* nodes at right places on the network, pairing them to the right *block_end* node. Works for nested foreach blocks.
@@ -136,6 +148,7 @@ The following features may be added in the future :
 Download the last stable release of Houdini Auto Compile Block.
 Copy the `houdiniAutoCompileBlock` and `packages` folders and paste it in your `$HOUDINI_USER_PREF_DIR` directory.
 
+> [!NOTE]
 > `HOUDINI_USER_PREF_DIR`
 >
 > *Windows default value:*  
@@ -165,22 +178,25 @@ You will have several options :
 **OS**
 - Windows
 
-*Note: Houdini Auto Compile Block should work in Linux/macOS, however this has not been tested yet and is not officially supported.*
 
 **Houdini Version**
 - Houdini 20.0
 - Houdini 19.5
 
-*Note: Houdini Auto Compile Block should work in some previous versions of Houdini, however this has not been tested yet and is not officially supported.*
+> [!NOTE]
+>
+> Houdini Auto Compile Block should work in Linux/macOS, however this has not been tested yet and is not officially supported.  
+> 
+> Houdini Auto Compile Block should work in some previous versions of Houdini, however this has not been tested yet and is not officially supported.
 
-## Changelogs
+## Changelog
 
-See [CHANGELOG]() file
+See [CHANGELOG](https://github.com/antoinedanion/Houdini-Auto-Compile-Block/blob/main/CHANGELOG.md) file
 
 ## License
 
-See [LICENSE]() file
+See [LICENSE](https://github.com/antoinedanion/Houdini-Auto-Compile-Block/blob/main/LICENSE) file
 
 ## Notice
 
-See [NOTICE]() file
+See [NOTICE](https://github.com/antoinedanion/Houdini-Auto-Compile-Block/blob/main/NOTICE) file

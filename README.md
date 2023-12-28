@@ -140,12 +140,13 @@ The following features may be added in the future :
 - non "compile-able" nodes detection
 - maybe some kind of workaround for channels referencing channels using parameters expressions
 
-*Note: Feel free to contact me for any feature request, or make a pull request.*  
-*Contact : [antoinedanion.contact@gmail.com](mailto:antoinedanion.contact@gmail.com)*
+> [!NOTE]
+> Feel free to contact me for any feature request, or make a pull request.
+> Contact : [antoinedanion.contact@gmail.com](mailto:antoinedanion.contact@gmail.com)
 
 ## Installation
 
-Download the last stable release of Houdini Auto Compile Block.
+Download the last stable release of Houdini Auto Compile Block.  
 Copy the `houdiniAutoCompileBlock` and `packages` folders and paste it in your `$HOUDINI_USER_PREF_DIR` directory.
 
 > [!NOTE]

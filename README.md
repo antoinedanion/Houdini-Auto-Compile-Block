@@ -141,7 +141,7 @@ The following features may be added in the future :
 - maybe some kind of workaround for channels referencing channels using parameters expressions
 
 > [!NOTE]
-> Feel free to contact me for any feature request, or make a pull request.
+> Feel free to contact me for any feature request, or make a pull request.  
 > Contact : [antoinedanion.contact@gmail.com](mailto:antoinedanion.contact@gmail.com)
 
 ## Installation

@@ -12,6 +12,7 @@ See [SideFX's documentation on compiled blocks](https://www.sidefx.com/docs/houd
   - [Installation](#installation)
   - [Usage](#usage)
   - [Compatibility](#compatibility)
+  - [Issues](#issues)
   - [Changelog](#changelog)
   - [License](#license)
   - [Notice](#notice)
@@ -141,7 +142,7 @@ The following features may be added in the future :
 - maybe some kind of workaround for channels referencing channels using parameters expressions
 
 > [!NOTE]
-> For feature request, please fill the form [here](https://github.com/antoinedanion/Houdini-Auto-Compile-Block/issues/new?template=feature_request.md).  
+> For any feature request, please fill the form [here](https://github.com/antoinedanion/Houdini-Auto-Compile-Block/issues/new?template=feature_request.md).  
 
 ## Installation
 
@@ -188,6 +189,12 @@ You will have several options :
 > Houdini Auto Compile Block should work in Linux/macOS, however this has not been tested yet and is not officially supported.  
 > 
 > Houdini Auto Compile Block should work in some previous versions of Houdini, however this has not been tested yet and is not officially supported.
+
+## Issues
+
+If you are experiencing any issue, please create a [bug report](https://github.com/antoinedanion/Houdini-Auto-Compile-Block/issues/new?template=bug_report.md).
+
+Known issues are listed [here](https://github.com/antoinedanion/Houdini-Auto-Compile-Block/issues).
 
 ## Changelog
 

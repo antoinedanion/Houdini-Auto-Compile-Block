@@ -5,9 +5,6 @@
         },
         {
             "HOUDINI_MENU_PATH": "$HOUDINI_AUTOCOMPILEBLOCK/menu"
-        },
-        {
-            "PYTHONPATH": "$HOUDINI_AUTOCOMPILEBLOCK/modules"
         }
     ],
     "hpath": "$HOUDINI_AUTOCOMPILEBLOCK"
